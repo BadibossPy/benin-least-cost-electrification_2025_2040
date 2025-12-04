@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inputs
 
 The main input is a settlement-level GeoJSON for Benin:
@@ -95,3 +96,6 @@ Limitations and possible extensions
 [Badre Alloul] - Least-Cost Electrification Analysis for Benin
 
 
+=======
+# benin-least-cost
+>>>>>>> 0fe6475e032552e8e1c5a844ec0f6f0ed3b482c4
